@@ -15,6 +15,6 @@ IoT (Internet of Things) とビッグデータの利用拡大にともない、�
 # 参考
 [1] A. Saxena, K. Goebel, D. Simon and N. Eklund, "Damage Propagation Modeling for Aircraft Engine Run-to-Failure Simulation," International Conference on Prognostics and Health Management, (2008).
 
-[2] Turbofan Engine Degradation Simulation Data Set, https://ti.arc.nasa.gov/tech/dash/groups/pcoe/prognostic-data-repository/#turbofan
+[2] Turbofan Engine Degradation Simulation Data Set, (https://www.nasa.gov/intelligent-systems-division/)
 
 [3] Akira Agata (2020). Demo Files for Predictive Maintenance (https://www.mathworks.com/matlabcentral/fileexchange/63012-demo-files-for-predictive-maintenance), MATLAB Central File Exchange. Retrieved December 1, 2020.
